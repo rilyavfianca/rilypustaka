@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RilyLibrary</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <h1>RilyLibrary</h1>
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="#collection">Collection</a>
+        <a href="#categories">Categories</a>
+        <a href="#about">About</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div>
+        <p class="eyebrow">WELCOME TO RILYLIBRARY</p>
+        <h2>Read. Discover. Imagine.</h2>
+        <p>Temukan berbagai buku dan jelajahi dunia melalui membaca.</p>
+        <a class="button" href="#collection">Explore Books</a>
+      </div>
+      <div class="hero-card">📚</div>
+    </section>
+
+    <section id="collection" class="section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">OUR COLLECTION</p>
+          <h2>Koleksi Buku</h2>
+        </div>
+        <input id="searchInput" type="search" placeholder="Cari judul atau penulis...">
+      </div>
+      <div id="bookList" class="book-grid"></div>
+      <p id="emptyState" class="empty" hidden>Buku tidak ditemukan.</p>
+    </section>
+
+    <section id="categories" class="section">
+      <p class="eyebrow">EXPLORE</p>
+      <h2>Kategori</h2>
+      <div class="categories">
+        <button data-category="Semua">Semua</button>
+        <button data-category="Fiksi">Fiksi</button>
+        <button data-category="Pendidikan">Pendidikan</button>
+        <button data-category="Sains">Sains</button>
+        <button data-category="Sejarah">Sejarah</button>
+      </div>
+    </section>
+
+    <section id="about" class="section about">
+      <p class="eyebrow">ABOUT</p>
+      <h2>Tentang RilyLibrary</h2>
+      <p>RilyLibrary adalah website perpustakaan sederhana untuk mencari dan menjelajahi koleksi buku. Data koleksi dikelola menggunakan JSON.</p>
+    </section>
+  </main>
+
+  <footer>© 2026 RilyLibrary · Read. Discover. Imagine. · Hero photo by Joey Zhou on Unsplash · Book covers via Open Library</footer>
+  <script src="script.js"></script>
+</body>
+</html>
