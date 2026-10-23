@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RilyLibrary — Read. Discover. Imagine.</title>
+  <meta name="description" content="RilyLibrary adalah website perpustakaan sederhana untuk mencari dan menjelajahi koleksi buku. Temukan berbagai buku dan jelajahi dunia melalui membaca.">
+  <meta name="author" content="RilyLibrary">
+  <meta name="theme-color" content="#25251f">
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+  <link rel="shortcut icon" href="assets/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/icon-192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="assets/icon-512.png">
+
+
+
+  <!-- Open Graph / Facebook / WhatsApp / Telegram -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="id_ID">
+  <meta property="og:site_name" content="RilyLibrary">
+  <meta property="og:title" content="RilyLibrary — Read. Discover. Imagine.">
+  <meta property="og:description" content="Temukan berbagai buku dan jelajahi dunia melalui membaca. Koleksi fiksi, pendidikan, sains, dan sejarah.">
+  <meta property="og:url" content="https://rilyavfianca.github.io/rilypustaka/">
+  <meta property="og:image" content="https://rilyavfianca.github.io/rilypustaka/assets/og-image.jpg">
+  <meta property="og:image:secure_url" content="https://rilyavfianca.github.io/rilypustaka/assets/og-image.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="RilyLibrary — Read. Discover. Imagine.">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="RilyLibrary — Read. Discover. Imagine.">
+  <meta name="twitter:description" content="Temukan berbagai buku dan jelajahi dunia melalui membaca. Koleksi fiksi, pendidikan, sains, dan sejarah.">
+  <meta name="twitter:image" content="https://rilyavfianca.github.io/rilypustaka/assets/og-image.jpg">
+  <meta name="twitter:image:alt" content="RilyLibrary — Read. Discover. Imagine.">
+
+  <!-- Canonical (utama GitHub Pages; ganti ke domain custom jika sudah aktif) -->
+  <link rel="canonical" href="https://rilyavfianca.github.io/rilypustaka/">
+
+  <link rel="manifest" href="assets/site.webmanifest">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <h1>RilyLibrary</h1>
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="#collection">Collection</a>
+        <a href="#categories">Categories</a>
+        <a href="#about">About</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div>
+        <p class="eyebrow">WELCOME TO RILYLIBRARY</p>
+        <h2>Read. Discover. Imagine.</h2>
+        <p>Temukan berbagai buku dan jelajahi dunia melalui membaca.</p>
+        <a class="button" href="#collection">Explore Books</a>
+      </div>
+      <div class="hero-card">📚</div>
+    </section>
+
+    <section id="collection" class="section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">OUR COLLECTION</p>
+          <h2>Koleksi Buku</h2>
+        </div>
+        <input id="searchInput" type="search" placeholder="Cari judul atau penulis...">
+      </div>
+      <div id="bookList" class="book-grid"></div>
+      <p id="emptyState" class="empty" hidden>Buku tidak ditemukan.</p>
+    </section>
+
+    <section id="categories" class="section">
+      <p class="eyebrow">EXPLORE</p>
+      <h2>Kategori</h2>
+      <div class="categories">
+        <button data-category="Semua">Semua</button>
+        <button data-category="Fiksi">Fiksi</button>
+        <button data-category="Pendidikan">Pendidikan</button>
+        <button data-category="Sains">Sains</button>
+        <button data-category="Sejarah">Sejarah</button>
+      </div>
+    </section>
+
+    <section id="about" class="section about">
+      <p class="eyebrow">ABOUT</p>
+      <h2>Tentang RilyLibrary</h2>
+      <p>RilyLibrary adalah website perpustakaan sederhana untuk mencari dan menjelajahi koleksi buku. Data koleksi dikelola menggunakan JSON.</p>
+    </section>
+  </main>
+
+  <footer>© 2026 RilyLibrary · Read. Discover. Imagine. · Hero photo by Joey Zhou on Unsplash · Book covers via Open Library</footer>
+  <script src="script.js"></script>
+</body>
+</html>
