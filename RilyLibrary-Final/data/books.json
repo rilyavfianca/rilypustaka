@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "title": "Laskar Pelangi",
+    "author": "Andrea Hirata",
+    "category": "Fiksi",
+    "year": 2005,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9789793062792-M.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Bumi",
+    "author": "Tere Liye",
+    "category": "Fiksi",
+    "year": 2014,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9786020332116-M.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Bulan",
+    "author": "Tere Liye",
+    "category": "Fiksi",
+    "year": 2015,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9786020332956-M.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Matahari",
+    "author": "Tere Liye",
+    "category": "Fiksi",
+    "year": 2016,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9786020334479-M.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Bintang",
+    "author": "Tere Liye",
+    "category": "Fiksi",
+    "year": 2017,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9786020336305-M.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Ceros dan Batozar",
+    "author": "Tere Liye",
+    "category": "Fiksi",
+    "year": 2018,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9786020631180-M.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Komet",
+    "author": "Tere Liye",
+    "category": "Fiksi",
+    "year": 2018,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9786020633511-M.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Hujan",
+    "author": "Tere Liye",
+    "category": "Fiksi",
+    "year": 2016,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9786020332949-M.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Pulang",
+    "author": "Tere Liye",
+    "category": "Fiksi",
+    "year": 2015,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9786020331188-M.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Rindu",
+    "author": "Tere Liye",
+    "category": "Fiksi",
+    "year": 2014,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9786020331201-M.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Negeri 5 Menara",
+    "author": "Ahmad Fuadi",
+    "category": "Fiksi",
+    "year": 2009,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9789792248616-M.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Sang Pemimpi",
+    "author": "Andrea Hirata",
+    "category": "Fiksi",
+    "year": 2006,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9789793062921-M.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Edensor",
+    "author": "Andrea Hirata",
+    "category": "Fiksi",
+    "year": 2007,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9789793062938-M.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Ayat-Ayat Cinta",
+    "author": "Habiburrahman El Shirazy",
+    "category": "Fiksi",
+    "year": 2004,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9789792245059-M.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Dilan 1990",
+    "author": "Pidi Baiq",
+    "category": "Fiksi",
+    "year": 2014,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9786027870411-M.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Dilan 1991",
+    "author": "Pidi Baiq",
+    "category": "Fiksi",
+    "year": 2015,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9786027870428-M.jpg"
+  },
+  {
+    "id": 17,
+    "title": "5 cm",
+    "author": "Donny Dhirgantoro",
+    "category": "Fiksi",
+    "year": 2005,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9789792245677-M.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Perahu Kertas",
+    "author": "Dee Lestari",
+    "category": "Fiksi",
+    "year": 2009,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9789793062793-M.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Filosofi Teras",
+    "author": "Henry Manampiring",
+    "category": "Pendidikan",
+    "year": 2018,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9786024125189-M.jpg"
+  },
+  {
+    "id": 20,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiksi",
+    "year": 1988,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9780061122415-M.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fiksi",
+    "year": 1997,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9780590353427-M.jpg"
+  },
+  {
+    "id": 22,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fiksi",
+    "year": 1937,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9780547928227-M.jpg"
+  },
+  {
+    "id": 23,
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "category": "Fiksi",
+    "year": 2008,
+    "status": "Tersedia",
+    "cover": "https://covers.openlibrary.org/b/isbn/9780439023481-M.jpg"
+  }
+]
